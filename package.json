@@ -1,0 +1,23 @@
+{
+  "name": "react-native-reactandroid-woogie",
+  "version": "1.0.0",
+  "description": "Permission issues have been fixed in Android M(23) and above.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimWoogie/react-native-reactandroid-woogie.git"
+  },
+  "keywords": [
+    "android",
+    "permissions"
+  ],
+  "author": "jwoogie <jwoogie@ibizsoftware.net> (nnull)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KimWoogie/react-native-reactandroid-woogie/issues"
+  },
+  "homepage": "https://github.com/KimWoogie/react-native-reactandroid-woogie#readme"
+}
